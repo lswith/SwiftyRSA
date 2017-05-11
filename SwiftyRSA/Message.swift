@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import SwiftyRSA_objc
+import SwiftyRSA_SwiftyRSA_objc
 
 @objc public class VerificationResult: NSObject {
     public let isSuccessful: Bool
