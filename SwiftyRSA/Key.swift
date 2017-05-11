@@ -8,6 +8,7 @@
 
 import Foundation
 import Security
+import SwiftyRSA_objc
 
 typealias PEMString = String
 
