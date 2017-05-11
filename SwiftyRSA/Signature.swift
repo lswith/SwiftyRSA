@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import SwiftyRSA_objc
 
 @objc public class Signature: NSObject {
     
