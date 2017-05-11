@@ -8,7 +8,7 @@
 
 import Foundation
 import Security
-import SwiftyRSA_objc
+import SwiftyRSA_SwiftyRSA_objc
 
 public typealias Padding = SecPadding
 
