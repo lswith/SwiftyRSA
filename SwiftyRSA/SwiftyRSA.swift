@@ -8,6 +8,7 @@
 
 import Foundation
 import Security
+import SwiftyRSA_SwiftyRSA_objc
 
 
 public class SwiftyRSAError: NSError {

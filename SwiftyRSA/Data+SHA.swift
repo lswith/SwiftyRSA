@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import SwiftyRSA_SwiftyRSA_objc
 
 public extension Data {
     var swiftyRSASHA1: Data {
